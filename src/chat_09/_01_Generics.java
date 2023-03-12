@@ -3,7 +3,7 @@ package chat_09;
 public class _01_Generics {
     public static void main(String[] args) {
         // 제네릭스: 기본 자료형은 지원하지 않음. 참조자료형(e.g. String)만 지원함
-        // Wrapper class 있어야 기본자료형 할 수 있엉
+        // Wrapper class 있어야 기본자료형 할 수 있엉 like Integer[] instead of int
         Integer[] iArray = {1, 2, 3, 4, 5};
         Double[] dArray = {1.0, 2.0, 3.0, 4.0, 5.0};
         String[] sArray = {"A", "B", "C", "D", "E"};
